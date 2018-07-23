@@ -1,6 +1,0 @@
----
-applications:
-- name: oracle-cache
-  memory: 64M
-  path: .
-  buildpack: staticfile_buildpack
